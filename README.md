@@ -1,4 +1,5 @@
 # tensorflow-inception retraining
 
-* using 40-50 images
-* 500 steps
+* using 10000 samples
+* 10000 steps
+* 
